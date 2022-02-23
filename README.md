@@ -1,5 +1,11 @@
 # Rinvex Bookings
 
+⚠️ This package is abandoned and no longer maintained. No replacement package was suggested. ⚠️
+
+👉 If you are interested to step on as the main maintainer of this package, please [reach out to me](https://twitter.com/omranic)!
+
+---
+
 **Rinvex Bookings** is a generic resource booking system for Laravel, with the required tools to run your SAAS like services efficiently. It has a simple architecture, with powerful underlying to afford solid platform for your business.
 
 [![Packagist](https://img.shields.io/packagist/v/rinvex/laravel-bookings.svg?label=Packagist&style=flat-square)](https://packagist.org/packages/rinvex/laravel-bookings)
@@ -282,6 +288,17 @@ Just like resource models, all the above properties and methods are actually rel
 **⚠️ Documentation not complete, the package is under developement, and some part may encounter refactoring! ⚠️**
 
 
+## Roadmap
+
+**Looking for contributors!**
+
+The following are a set of limitations to be improved, or feature requests that's looking for contributors to implement, all PRs are welcome 🙂
+
+- [ ] Add the ability to cancel bookings (#43)
+- [ ] Complete the bookable availability implementation, and document it (#32, #4)
+- [ ] Improve the documentation, and complete missing features, and add a workable example for each.
+
+
 ## Changelog
 
 Refer to the [Changelog](CHANGELOG.md) for a full history of the project.
@@ -323,4 +340,4 @@ Rinvex is a software solutions startup, specialized in integrated enterprise sol
 
 This software is released under [The MIT License (MIT)](LICENSE).
 
-(c) 2016-2021 Rinvex LLC, Some rights reserved.
+(c) 2016-2022 Rinvex LLC, Some rights reserved.
