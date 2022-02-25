@@ -1,11 +1,11 @@
 {
-    "name": "rinvex/laravel-bookings",
+    "name": "saber13812002/laravel-bookings",
     "description": "Rinvex Bookings is a generic resource booking system for Laravel, with the required tools to run your SAAS like services efficiently. It has a simple architecture, with powerful underlying to afford solid platform for your business.",
     "type": "library",
     "keywords": [
         "cost",
         "usage",
-        "rinvex",
+        "saber13812002",
         "booking",
         "resource",
         "schedules",
@@ -15,18 +15,18 @@
         "rates"
     ],
     "license": "MIT",
-    "homepage": "https://rinvex.com",
+    "homepage": "https://saber13812002.com",
     "support": {
-        "email": "help@rinvex.com",
-        "issues": "https://github.com/rinvex/laravel-bookings/issues",
-        "source": "https://github.com/rinvex/laravel-bookings",
-        "docs": "https://github.com/rinvex/laravel-bookings/blob/master/README.md"
+        "email": "help@.com",
+        "issues": "https://github.com/saber13812002/laravel-bookings/issues",
+        "source": "https://github.com/saber13812002/laravel-bookings",
+        "docs": "https://github.com/saber13812002/laravel-bookings/blob/master/README.md"
     },
     "authors": [
         {
             "name": "Rinvex LLC",
-            "homepage": "https://rinvex.com",
-            "email": "help@rinvex.com"
+            "homepage": "https://saber13812002.com",
+            "email": "help@saber13812002.com"
         },
         {
             "name": "Abdelrahman Omran",
